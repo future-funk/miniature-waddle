@@ -1,4 +1,1 @@
 fail-on-severity: 'critical'
-fail-on-scopes:
-  - development
-  - runtime
